@@ -3,5 +3,6 @@
   "creator": "Asumji",
   "version": "1.0.0",
   "entry": "index.js",
-  "description": "A simple powder tracker to micromanage how much powder to grind every day to achieve a long-term goal."
+  "description": "A simple powder tracker to micromanage how much powder to grind every day to achieve a long-term goal.",
+  "requires": ["PogData"]
 }
